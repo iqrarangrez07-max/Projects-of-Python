@@ -46,6 +46,3 @@ Sum of all numbers from 1 to 3 is: 6
 🔹 3. Exit Option
 
 Safely exits the program with a goodbye message
-User input
-
-Basic validation
